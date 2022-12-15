@@ -1,0 +1,76 @@
+body {
+    background-color: beige;
+}
+
+.navbar {
+    width: 50%;
+    border: 5px double brown;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: row;
+    background-color: chartreuse;
+    justify-content: space-between;
+    float: right;
+
+}
+
+.navbar a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+
+}
+
+#home {
+    width: 20%;
+    border: 5px double rgb(145, 255, 0);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+    clear: both;
+}
+
+#about {
+    width: 20%;
+    border: 5px double rgb(145, 255, 0);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+    clear: both;
+}
+
+#work {
+    width: 20%;
+    border: 5px double rgb(145, 255, 0);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+    clear: both;
+}
+
+#resume {
+    width: 20%;
+    border: 5px double rgb(145, 255, 0);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+    clear: both;
+}
+
+#contact {
+    width: 20%;
+    border: 5px double rgb(145, 255, 0);
+    padding: 20px 40px;
+    margin: 50px;
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+    clear: both;
+}
